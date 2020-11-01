@@ -1,0 +1,2 @@
+# message_decode-encode
+We have successfully developed Message encode – decode project in Python. We used the popular tkinter library for rendering graphics on a display window and base64 to encode &amp; decode. We learned how to encode and decode the string, how to create button, widget, and pass the function to the button.  In this way, we can encode our message and decode the encoded message in a secure way by using the key. We hope you enjoyed building this python project
